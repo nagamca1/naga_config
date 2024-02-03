@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to EazyBank cards related PROD API final"
+  message: "Welcome to EazyBank cards related PROD API "
   contactDetails:
     name: "Amaal Grega - Developer"
     email: "amaal@eazybank.com"
